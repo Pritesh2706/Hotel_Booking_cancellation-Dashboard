@@ -1,4 +1,4 @@
-🏨 Hotel Booking Analysis Dashboard   
+##🏨 Hotel Booking Analysis Dashboard   
 
 This repository contains an interactive Excel dashboard designed to provide insightful analysis of hotel booking data. It includes detailed metrics and visualizations for tracking booking trends, guest demographics, cancellations, and more.
 
@@ -36,3 +36,6 @@ Microsoft Excel
 Pivot Tables
 
 Data Visualization (Charts, Graphs)
+
+
+
